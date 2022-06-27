@@ -1,0 +1,8 @@
+{
+  "shared.app.langTr": "Türkçe",
+  "shared.app.langEn": "English",
+  "shared.app.error": "Hata",
+  "shared.app.error.description": "İşleminiz gerçekleştirilirken bir hata oluştu. Sayfayı yenileyerek tekrar deneyiniz.",
+  "shared.app.error.refresh": "Sayfayı Yenile",
+  "helloReact": "Merhaba React"
+}

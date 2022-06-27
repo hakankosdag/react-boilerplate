@@ -1,0 +1,8 @@
+{
+  "shared.app.langTr": "Türkçe",
+  "shared.app.langEn": "English",
+  "shared.app.error": "Error",
+  "shared.app.error.description": "An error occurred while processing your request. Please try again by refreshing the page",
+  "shared.app.error.refresh": "Refresh page",
+  "helloReact": "Hello React"
+}
